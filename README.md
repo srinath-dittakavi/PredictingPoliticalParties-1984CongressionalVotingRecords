@@ -3,7 +3,7 @@
 By: Srinath Dittakavi
 
 Overview:
-This GitHub repository contains a machine learning project that aims to predict the political party affiliation (Republican or Democrat) of members of the United States Congress based on their voting records on key legislative issues. The project utilizes data from the 1984 United States Congressional Voting Records dataset, available from the UCI Machine Learning Repository.
+This GitHub repository contains a machine learning project that aims to predict the political party affiliation (Republican or Democrat) of members of the United States Congress based on their voting records on key legislative issues with an accuracy rate of over 95%. The project utilizes data from the 1984 United States Congressional Voting Records dataset, available from the UCI Machine Learning Repository.
 
 So, why did I embark on this adventure? Well, it's all about applying the machine learning and model training skills I've been picking up in my college classes. I wanted to put my classroom knowledge to the test and show that I can use machine learning in a real-world (sort of) scenario. I want to use this as a stepping stone to explore and build bigger and better machine learning and AI tools, leveraging the latest advancements in technology and data science to create innovative solutions that address complex real-world problems.
 
