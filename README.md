@@ -8,8 +8,7 @@ This GitHub repository contains a machine learning project that aims to predict 
 So, why did I embark on this adventure? Well, it's all about applying the machine learning and model training skills I've been picking up in my college classes. I wanted to put my classroom knowledge to the test and show that I can use machine learning in a real-world (sort of) scenario. I want to use this as a stepping stone to explore and build bigger and better machine learning and AI tools, leveraging the latest advancements in technology and data science to create innovative solutions that address complex real-world problems.
 
 Dataset Source:
-
-UCI Machine Learning Repository - Congressional Voting Records - https://archive.ics.uci.edu/dataset/105/congressional+voting+records
+Congressional Voting Records. (1987). UCI Machine Learning Repository. https://doi.org/10.24432/C5C01P.
 
 Key Features:
 
